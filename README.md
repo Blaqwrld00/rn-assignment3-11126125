@@ -1,4 +1,5 @@
-# Mobile Application Development - Assignment 3
+# rn-assignment3-11126125
+# Mobile Application Development 
 
 ## Description
 This React Native application is designed to showcase various core components and custom components while adhering to a specific UI design. It includes eight categories such as Exercise, Study, Code, Cook, etc., and provides a list of 15 ongoing tasks.
@@ -18,3 +19,4 @@ Custom components are used throughout the application to enhance the user interf
 
 ## Screenshot
 ![Screenshot](assets/screenshot.jpg)
+Student ID 11126125
